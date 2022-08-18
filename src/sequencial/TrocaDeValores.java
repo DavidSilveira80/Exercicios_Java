@@ -21,7 +21,7 @@ public class TrocaDeValores {
         A = B;
         B = aux;
         
-        System.out.println("Agora valores torcados:");
+        System.out.println("Agora valores trocados:");
         System.out.printf("A = %s B = %s.\n", A, B);
         
         /*
